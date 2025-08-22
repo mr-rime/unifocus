@@ -1,6 +1,4 @@
 import { daysInYear } from "@/utils/days-in-year";
-import { Tooltip, TooltipContent, TooltipTrigger } from "../ui/tooltip";
-import { ACTIVITY_GRADUATION } from "./heatmap.constants";
 import { HeatmapActivity } from "./heatmap.activity";
 
 const date = new Date();
